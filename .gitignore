@@ -1,0 +1,27 @@
+# IDE
+.vscode/
+.idea/
+
+# Java
+*.class
+target/
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated output
+output/
+outputs/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
