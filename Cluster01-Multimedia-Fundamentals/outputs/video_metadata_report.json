@@ -1,0 +1,14 @@
+{
+    "File Name": "sample.mp4",
+    "File Format": "MP4",
+    "File Size (MB)": 0.05,
+    "File Size (Bytes)": 48263,
+    "Resolution": "320x240",
+    "Width": 320,
+    "Height": 240,
+    "Aspect Ratio": "1.33:1",
+    "FPS (Frame Rate)": 30.0,
+    "Total Frames": 60,
+    "Duration (Seconds)": 2.0,
+    "Codec (FourCC)": "FMP4"
+}
