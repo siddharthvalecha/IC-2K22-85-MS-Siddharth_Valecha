@@ -1,0 +1,23 @@
+{
+    "File Name": "sample.jpg",
+    "File Size (KB)": 5.3,
+    "File Size (Bytes)": 5430,
+    "Format": "JPEG",
+    "MIME Type": "image/jpeg",
+    "Dimensions (WxH)": [
+        640,
+        480
+    ],
+    "Width": 640,
+    "Height": 480,
+    "Color Mode": "RGB",
+    "Color Bands": [
+        "R",
+        "G",
+        "B"
+    ],
+    "DPI": "Not Specified",
+    "Is Animated": false,
+    "Frame Count": 1,
+    "EXIF Metadata": "No EXIF data present"
+}
